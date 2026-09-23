@@ -1,4 +1,4 @@
-# SIH26145 — Passive AI Cyber-Threat Detection
+#Cyber-Threat Detection
 
 > **Smart India Hackathon 2026 · PS 26145 · NTRO** — AI-based detection of cyber threats in unidirectional IP traffic using passive, read-only analysis.
 
@@ -12,7 +12,7 @@
 
 ## What are we building?
 
-SIH26145 is a cybersecurity software system with a web dashboard. A local Python detection engine replays or ingests synthetic network-flow events, extracts behavioral features, detects threats, and emits explainable alerts. A React/TypeScript dashboard presents those alerts in near real time.
+It is a cybersecurity software system with a web dashboard. A local Python detection engine replays or ingests synthetic network-flow events, extracts behavioral features, detects threats, and emits explainable alerts. A React/TypeScript dashboard presents those alerts in near real time.
 
 ```text
 Synthetic traffic → read-only replay → Python detection engine
